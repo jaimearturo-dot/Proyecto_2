@@ -4,4 +4,4 @@ if numero >= 0:
     print("numero positivo")
 
 else:
-    print("")
+    print("numero negativo")
