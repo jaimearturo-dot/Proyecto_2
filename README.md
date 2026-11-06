@@ -15,5 +15,7 @@ Lo que he realizado en esta clase es hacer un archivo que sea "nom.py" para hace
 **2 -** Aqui debemos pedir 3 numeros por separado, y debe indicar cual es el mayor de los 3 numeros.
 **3 -** Es pedir un numero por teclado y decir que si es positivo o negativo. El cero se considera positivo.
 # Clase session-4 
-
+**1 -** Aqui debemos realizar un programa que muestre todos los numeros pares que hya entre 1 y 200.
+**2 -** Debemos hacer que lea una secuencia de notas entre el 0 y el 10. Cuando introduzcamos -1, terminara la secuencia y tendremos que indicar si ha habido alguna nota con un 10.
+**3 -** Hacemos que lea 10 numeros y al terminar, indicara si habia algun numero negativo (al menos uno) o si no habia ninguno.
 # Clase session-5 y 6
