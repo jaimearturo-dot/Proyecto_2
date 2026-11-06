@@ -3,3 +3,4 @@
 -**Curs:** 2-B SMX 
 -**Modul:** projecte intermodular
 ## Resum del projecte
+esto es un ejemplo de lo que tengo que explicar
