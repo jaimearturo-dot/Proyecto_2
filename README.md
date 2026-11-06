@@ -29,8 +29,27 @@ Cada palabra se guarda en una variable.
 El simbolo **+** permite unir textos.
 **""** añade un espacio entre las palabras.
 **print(frase)** muestra la frase completa.
-# Clase session-3
 
-# Clase session-4
+**4 -** aqui debemos escribir un programa que dados 2 numeros decimales, nos devuelva un numero entero, los comandos utilizamos son:
+**float() -** esto convierte un dato en decimal.
+**int() -** esto convierte un dato en entero.
+**print() -** esto muestra los resultados.
+
+# Clase session-3
+**1 -** Aqui debemos hacer que nos muestre si somos mayores o menor de edad, dependiendo y estableciendo que edad conside que nosotros consideramos nosotros, por ejemplo, si le digo que establezco un valor de 18 años, el dira que eres mayor si tienes mas de los 18 o que eres menor si tienes menos que los 18.
+Comandos utilizados:
+**edad = int(input(...)) -** le pedimos la edad y la convertimos en un numero entero.
+**if edad >= 18: -** esto significa que si la edad es mayor o igual a los 18.
+**print(...) -** si se cumple la condicion, nos muestra que eres mayor de edad.
+**else: -** esto significa "si no se cumple la condicion, optara por otro camino".
+**print(...) -*** esto mostrara si eres menor de edad.
+
+**2 -** Aqui debemos pedir 3 numeros por separado, y debe indicar cual es el mayor de los 3 numeros.
+Comandos utilizados:
+**if -** es la prueba de la primera condicion
+**elif -** esto significa "si no se cumple la enterior, comprueba esta otra".
+**else -** esto hace que se ejecuta si ninguna de las condiciones anteriores se cumplen.
+**and -** significa "y", las 2 opciones deben cumplirse.
+# Clase session-4 
 
 # Clase session-5 y 6
