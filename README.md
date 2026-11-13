@@ -19,4 +19,5 @@ Lo que he realizado en esta clase es hacer un archivo que sea "nom.py" para hace
 **2 -** Debemos hacer que lea una secuencia de notas entre el 0 y el 10. Cuando introduzcamos -1, terminara la secuencia y tendremos que indicar si ha habido alguna nota con un 10.
 **3 -** Hacemos que lea 10 numeros y al terminar, indicara si habia algun numero negativo (al menos uno) o si no habia ninguno.
 # Clase session-5 y 6
-**1 -** el objetivo principal fue crear hacer unos calculos que reciba datos de entrada y que devuelva un resultado 
+**1 -** el objetivo principal fue crear hacer unos calculos que reciba datos de entrada y que devuelva un resultado procesado en lugar de solo comprimirlo, se define con el comando "def" y su estructura es "def calcular_precios(precios_piezas, mano_obra) y adentro de esta estrcutura se suman los valores establecidos y se utiliza el comando "return" para enviar el resultado.
+**2 -** En este ejericio aplicamos la logica de la toma de desiciones en python como lo que es *if, elif, else" dentro de una funcion (aplicar_descuento) y esto depende de que tipo de cliente hayamos puesto, su logica funciona con que "precio" y "tipos_cliente" recibe, los comandos elif y else son aquellas opciones que tenemos si la primera opcion no es la deseada, una vez teniendo esto estructurado aplicamos los descuentos a todos los tipos de cleinte 
