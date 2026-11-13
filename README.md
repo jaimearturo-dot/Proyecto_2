@@ -19,3 +19,4 @@ Lo que he realizado en esta clase es hacer un archivo que sea "nom.py" para hace
 **2 -** Debemos hacer que lea una secuencia de notas entre el 0 y el 10. Cuando introduzcamos -1, terminara la secuencia y tendremos que indicar si ha habido alguna nota con un 10.
 **3 -** Hacemos que lea 10 numeros y al terminar, indicara si habia algun numero negativo (al menos uno) o si no habia ninguno.
 # Clase session-5 y 6
+**1 -** el objetivo principal fue crear hacer unos calculos que reciba datos de entrada y que devuelva un resultado 
