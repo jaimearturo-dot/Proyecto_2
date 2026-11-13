@@ -1,7 +1,7 @@
-# Practica 02: Introduccion a la programacio amb Python
--**Alumne/a:** Jaime Arturo Pino 
--**Curs:** 2-B SMX 
--**Modul:** projecte intermodular
+# Practica 02: Introduccio a la programacion con Python
+-**Estudiante:** Jaime Arturo Pino 
+-**Curso:** 2-B SMX 
+-**Modulo:** projecte intermodular
 ## Resum del projecte
 # Clase session-1
 Lo que he realizado en esta clase es hacer un archivo que sea "nom.py" para hacer un archivo donde utilizaremos ese lenguaje (en mi caso python), despues ejecutamos el comandos de imprimir que es print ("alguna frase rara") y se ejecuta, y en la ejeccion debe salir la palabra limpiamente que hemos puesto en "".
