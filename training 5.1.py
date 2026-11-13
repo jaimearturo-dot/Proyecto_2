@@ -6,6 +6,11 @@ def calcula_precio(a, b):
 total = calcula_precio(10, 20) 
 #le decimos que nos muestre el resultado 
 print("El precio total es:", total) 
+#========================================
+#Ejercicio 5
+#1 -¿Cuantos parametros tiene la funcion? R - Hay 2 parametros los cuales son a y b
+#2 -¿Que valor vuelve? R - La funcion devuelve la suma de los dos parametros que se le pasan
+#3 -¿Que pasa si eliminas el return? R - Al ser eliminado, no podremos saber cumplir con la accion de la funcion solicitada.
 
 #Training 5.2
 #calcular descuentos dependinedo del precio
@@ -64,7 +69,7 @@ while opcion != 4:
         piezas = float(input("precios de las piezas: "))
         mano_obra = float(input("precio de la mano de obra: "))
         precio = calcula_precio(piezas, mano_obra)
-        tipo = input("tipo de cliente:")
+        tipo = input("tipo de cliente (particular, empresa, habitual):")
         total = calcula_facturacion(precio, tipo)
         print("total de la facturacion, total, €:", total)
         reparaciones += 1
@@ -77,3 +82,16 @@ while opcion != 4:
         print("hasta pronto")
     else:
         print("opcion incorrecta")
+#========================================
+#Ejercicio 5 Relflexion
+#4 -¿Cual es la diferencia entre "print() y return? 
+# R - "print()" se encarga de de "imprimir el mensaje y mostrarlo, "return" se encarga dar el resultados de 2 valores dependiendo de la operatcion que se mande a realizar.
+#5 -¿por que es mejor dividir un programa en funciones?
+# R - Por que una funcion es reutilizable y la podemos estar repitiendo varias veces en el mismo o en un diferente programa donde podremos adaptar esa funcion basandonos a nuestras necesidades.
+#6 -¿Que es un parametro en python?
+# R - Es un valor que nos ayuda a darle sentido a una estructura donde manejamos funciones y acciones, ya que actúa como un marcador de posición para los valores que la función espera recibir y este parametro son valores que van adentro de las "()" en las estructuras de programacion.
+#7 -¿Que es una variable local?
+# R - Es Es una variable que cuando se creada dentro de una función que solo existe y puede utilizarse dentro de ella, cuando se termina la función, esta variable desaparece de su 
+#8 -¿que ventajas tiene el reutilizar una funcion?
+#9 - Nos 1
+# R -ahorra tiempo a la hora que tener que volver a utilizar este codigo y evitamos duplicar líneas de código (de forma inesesaria) y nos facilita el mantenimiento o gestion de codigo o estructura.
